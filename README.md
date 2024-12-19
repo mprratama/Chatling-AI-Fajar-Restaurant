@@ -1,2 +1,3 @@
 # Chatling-AI-Fajar-Restaurant
-Chatling.AI Fajar Restaurant (Mhd Fajar Pratama) Enterprise Resource Planning
+<script> window.chtlConfig = { chatbotId: "7875337114" } </script>
+<script async data-id="7875337114" id="chatling-embed-script" type="text/javascript" src="https://chatling.ai/js/embed.js"></script>
